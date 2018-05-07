@@ -1,0 +1,14 @@
+{
+  "name": "http",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  },
+  "proxies": [
+    {
+      "path": "/api",
+      "proxyUrl": "https://testeqrcodeapp.herokuapp.com"
+    }
+  ]
+}
